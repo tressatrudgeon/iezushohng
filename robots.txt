@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laephonaif.jeremycrump.work/sitemap.xml
